@@ -1,0 +1,21 @@
+cli/config/mod.rs
+  s_aefce1eaa6a20f::t_4a508ca75c45c9 110-119
+  s_aefce1eaa6a20f::t_761bd21c62d332 108-109
+  s_aefce1eaa6a20f::t_5c0cf27efbfc49 120-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d99cbfa8789508c6f601a9550b48d8fdf94933ad",
+  "prompts": {},
+  "sessions": {
+    "s_aefce1eaa6a20f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56ecaac2-b6e2-424c-89be-b9dfae58b99f",
+        "model": "unknown"
+      },
+      "human_author": "Denis Dvornikov <129845276+denisdddddd@users.noreply.github.com>"
+    }
+  }
+}
